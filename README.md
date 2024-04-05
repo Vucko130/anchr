@@ -4,11 +4,11 @@
   <br>
 </h1>
 
-<h4 align="center">A website for <a href="https://fiy.no/" target="_blank">URL shortener</a>.</h4>
+<h4 align="center">A website for <a href="https://anchr.cf/" target="_blank">URL shortener</a>.</h4>
 
 <p align="center">
-  <a href="https://fiy.no/">
-    <img src="https://img.shields.io/website-up-down-green-red/http/fiy.no.svg">
+  <a href="https://anchr.cf/">
+    <img src="https://img.shields.io/website-up-down-green-red/http/anchr.cf.svg">
   </a>
   <a href="https://opensource.org/licenses/MIT">
       <img src="https://img.shields.io/badge/License-MIT-blue.svg">
@@ -129,7 +129,7 @@ redirect_to: https://github.com/storbukas/url-shortener
 
 This results in:
 
-* "Short" link: https://fiy.no/repo
+* "Short" link: https://anchr.cf/repo
 * Target page:  https://github.com/storbukas/url-shortener
 
 The `redirect_to` is the URL to the target page. This is the only [front matter](https://jekyllrb.com/docs/front-matter/) that is mandatory to make the short link work.
