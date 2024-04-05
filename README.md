@@ -123,7 +123,7 @@ This repository has an example, [`repo.md`](repo.md):
 
 ```md
 ---
-redirect_to: https://github.com/storbukas/url-shortener
+redirect_to: https://github.com/Vucko130/url-shortener
 ---
 ```
 
