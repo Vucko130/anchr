@@ -1,3 +1,3 @@
 ---
-redirect_to: https://github.com/storbukas/url-shortener
+redirect_to: https://github.com/Vucko130/url-shortener
 ---
