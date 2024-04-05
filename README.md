@@ -130,7 +130,7 @@ redirect_to: https://github.com/Vucko130/url-shortener
 This results in:
 
 * "Short" link: https://anchr.cf/repo
-* Target page:  https://github.com/storbukas/url-shortener
+* Target page:  https://github.com/Vucko130/url-shortener
 
 The `redirect_to` is the URL to the target page. This is the only [front matter](https://jekyllrb.com/docs/front-matter/) that is mandatory to make the short link work.
 
