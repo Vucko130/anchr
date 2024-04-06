@@ -17,7 +17,7 @@ plugins:
 collections:
   urls:
     output: true
-    permalink: /:slug
+    permalink: /:slug/
 
 whitelist:
   - jekyll-redirect-from
