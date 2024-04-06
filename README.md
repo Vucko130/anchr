@@ -123,6 +123,7 @@ This repository has an example, [`repo.md`](repo.md):
 
 ```md
 ---
+title: Anchr URL shortener with Jekyll and Github pages
 redirect_to: https://github.com/Vucko130/url-shortener
 ---
 ```
@@ -144,13 +145,40 @@ If you want to use a different slug, set the `permalink` variable:
 permalink: /something/
 ```
 
+## Emoji
 Take the opportunity to get a real short slug by using *emojis*:
 
 ```md
 permalink: /😻/
 ```
 
-Find appropriate emojis to copy from https://www.emojicopy.com
+* http://unicode.org/emoji/charts/full-emoji-list.html
+* https://emojipedia.org
+* http://caniemoji.com
+
+:ok_man: Platforms with URL emoji support:
+
+```
+Facebook
+LinkedIn
+Medium
+Pinterest
+Skype
+Slack
+WhatsApp
+```
+
+:ng_man: Platforms without URL emoji support:
+
+```
+Facebook Messenger
+Flickr
+Gmail
+Instagram
+Tumblr
+Twitter
+YouTube
+```
 
 ## Built With
 
