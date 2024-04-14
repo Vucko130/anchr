@@ -8,7 +8,7 @@ version: v0.2
 baseurl: ""
 permalink: /:slug/
 logo: /assets/logo.png
-google_analytics: G-SGNDWGRHJK
+google_analytics: G-FGC93CVVBW
 theme: jekyll-theme-minimal
 
 plugins:
