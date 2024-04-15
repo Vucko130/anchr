@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://anchr.cf/">
-    <img src="https://img.shields.io/website-up-down-green-red/http/anchr.cf.svg">
+    <img src="https://img.shields.io/website-up-down-green-red/https/anchr.cf.svg">
   </a>
   <a href="https://opensource.org/licenses/MIT">
       <img src="https://img.shields.io/badge/License-MIT-blue.svg">
